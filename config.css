@@ -1,3 +1,6 @@
 .version:before {
    content: "1.01";
 }
+.newestlink {
+   content: "http://google.de";
+}
