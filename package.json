@@ -1,8 +1,8 @@
 {
-  "name": "Cayman",
+  "name": "Percdye",
   "version": "1.0.0",
-  "homepage": "http://github.com/jasonlong/cayman-theme",
-  "author": "Jason Long",
+  "homepage": "https://percdye7.github.io",
+  "author": "Percdye7",
   "scss": "./scss/cayman.scss",
   "devDependencies": {
     "autoprefixer": "^6.6.0",
