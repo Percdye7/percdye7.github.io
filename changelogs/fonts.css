@@ -1,14 +1,14 @@
 #div.fixed {
-  color: #800080;
-  display:inline;
+  color: #800080; !important
+  display:inline; !important
 }
 
 #div#div.added {
-  color: #008000;
-  display:inline;
+  color: #008000; !important
+  display:inline; !important
 }
 
 #div.removed {
   
-  display:inline;
+  display:inline; !important
 }
