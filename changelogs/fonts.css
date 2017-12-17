@@ -1,11 +1,14 @@
 .fixed {
   color: #800080;
+  display:inline;
 }
 
 .added {
   color: #008000;
+  display:inline;
 }
 
 .removed {
   
+  display:inline;
 }
